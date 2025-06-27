@@ -1,0 +1,54 @@
+APP DEVELOPMENT BRIEF
+==================================================
+
+
+# APP DEVELOPMENT BRIEF
+
+## 1. APP SUMMARY
+Web App application focusing on Chat, Payments, File Upload.
+Full-featured e-commerce platform with inventory management
+
+## 2. RECOMMENDED TECH STACK
+- **Frontend Framework**: React.js (for Web) / React Native (for Mobile)
+- **Styling/CSS**: Tailwind CSS
+- **Backend**: Node.js with Express
+- **Database**: MongoDB
+- **Authentication**: JWT tokens
+- **Additional Services**: Firebase for notifications
+
+## 3. UI SCREENS & STRUCTURE
+Main screens based on specified components:
+- Login Page
+- Dashboard
+- Profile
+
+## 4. BACKEND LOGIC REQUIREMENTS
+Core functionalities needed:
+- Chat implementation
+- Payments implementation
+- File Upload implementation
+
+## 5. SUGGESTED FOLDER STRUCTURE
+```
+/src
+  /components
+  /pages
+  /services
+  /utils
+  /styles
+/public
+/server
+  /routes
+  /models
+  /middleware
+```
+
+## 6. ADDITIONAL REQUIREMENTS
+- **UI Theme**: Minimal
+- **Color Palette**: #ffffff, #3b82f6
+- **Target Platforms**: Web, Mobile
+- Responsive design for all screen sizes
+- Security best practices implementation
+- Performance optimization
+
+*Note: This brief was generated using fallback template due to AI service unavailability.*

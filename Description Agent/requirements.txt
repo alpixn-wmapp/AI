@@ -1,0 +1,9 @@
+transformers
+langchain
+langchain-huggingface
+Huggingface-hub
+langchain-community
+# Essential dependencies for NeuraForge Description AI Agent
+langchain-core==0.2.38
+pydantic==2.8.2
+requests==2.31.0
