@@ -1,0 +1,17 @@
+Create a single-page portfolio website for a photographer using React, featuring a minimal design aesthetic. The homepage should include the following sections: 
+
+1. **Hero Section**: Prominently display the photographer’s name and a tagline or short introduction, using a clean, bold layout.
+2. **About Me**: A concise biography section describing the photographer’s background, style, and artistic philosophy.
+3. **Photo Gallery**: An elegant, grid-based gallery showcasing selected photographs. Each image should open in a lightbox modal on click for a larger view.
+4. **Services**: A section detailing available photography services (such as weddings, portraits, events, etc.), presented in a clear and organized manner.
+5. **Testimonials**: Display client testimonials or reviews in a slider or card layout for credibility.
+6. **Contact Form**: A simple, user-friendly form allowing visitors to send inquiries or booking requests. Include fields for name, email, message, and a submit button.
+
+Design requirements:
+- Use a minimal theme with generous white space, clean lines, and uncluttered layouts.
+- Apply the color palette: black (#000000) for headings and accents, white (#ffffff) for backgrounds, and grey (#808080) for secondary text and subtle dividers.
+- Ensure typography is modern and easy to read.
+- All sections should be visually distinct but harmoniously integrated, utilizing subtle hover effects and smooth transitions.
+- The website should be fully responsive, looking great on both desktop and mobile devices.
+
+Export the result as a React project with modular components for each homepage section, making sure to follow best practices for maintainable code and accessibility.

@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a portfolio website for a photographer",
+  "features": ["Photo Gallery", "Contact Form", "About Me", "Services", "Testimonials"],
+  "export_type": "React",
+  "ui_theme": "Minimal",
+  "color_palette": "#000000, #ffffff, #808080"
+}
