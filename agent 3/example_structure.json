@@ -1,0 +1,20 @@
+{
+    "html/index.html": {
+        "type": "file",
+        "description": "Main HTML file"
+    },
+    "css/styles.css": {
+        "type": "file",
+        "description": "Main CSS file"
+    },
+    "js/script.js": {
+        "type": "file",
+        "description": "Main JavaScript file"
+    },
+    "assets": {
+        "description": "Directory for assets"
+    },
+    "assets/images": {
+        "description": "Directory for image assets"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "index.html": {
+        "type": "file",
+        "description": "Main HTML file"
+    },
+    "css": {
+        "description": "Directory for CSS files"
+    },
+    "css/main.css": {
+        "type": "file",
+        "description": "Main CSS file"
+    },
+    "css/responsive.css": {
+        "type": "file",
+        "description": "Responsive design CSS"
+    },
+    "js": {
+        "description": "Directory for JavaScript files"
+    },
+    "js/main.js": {
+        "type": "file",
+        "description": "Main JavaScript file"
+    },
+    "js/utils.js": {
+        "type": "file",
+        "description": "Utility functions"
+    },
+    "assets": {
+        "description": "Directory for assets"
+    },
+    "assets/images": {
+        "description": "Directory for image assets"
+    },
+    "assets/fonts": {
+        "description": "Directory for font assets"
+    },
+    "components": {
+        "description": "Directory for reusable components"
+    },
+    "components/header.html": {
+        "type": "file",
+        "description": "Header component"
+    },
+    "components/footer.html": {
+        "type": "file",
+        "description": "Footer component"
+    },
+    "pages": {
+        "description": "Directory for additional pages"
+    },
+    "pages/about.html": {
+        "type": "file",
+        "description": "About page"
+    },
+    "pages/contact.html": {
+        "type": "file",
+        "description": "Contact page"
+    },
+    "api": {
+        "description": "Directory for API integration"
+    },
+    "api/api.js": {
+        "type": "file",
+        "description": "API utilities"
+    }
+}
